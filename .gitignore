@@ -1,1 +1,9 @@
+/target
+
+### IntelliJ IDEA ###
 /.idea
+*.iws
+*.ipr
+*.log
+*.iml
+workspace.xml
